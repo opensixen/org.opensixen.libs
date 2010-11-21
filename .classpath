@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
+	<classpathentry exported="true" kind="lib" path="lib/commons-beanutils.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/ecs-compiere.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/activemq-core-5.0.0.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/ant-commons-net.jar"/>
