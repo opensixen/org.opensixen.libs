@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
+	<classpathentry exported="true" kind="lib" path="lib/ekit.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/mysql-connector-java-5.1.13-bin.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/poi-3.5-FINAL-20090928.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/glazedlists-1.8.0_java15.jar">
