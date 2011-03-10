@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
+	<classpathentry exported="true" kind="lib" path="lib/miglayout-3.7.4-swing.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/ekit.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/mysql-connector-java-5.1.13-bin.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/poi-3.5-FINAL-20090928.jar"/>
@@ -45,7 +46,6 @@
 	<classpathentry exported="true" kind="lib" path="lib/logkit.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/looks-2.0.4.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/mail.jar"/>
-	<classpathentry exported="true" kind="lib" path="lib/miglayout-3.7.1-swing.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/ojdbc6.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/payflow.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/postgresql.jar"/>
